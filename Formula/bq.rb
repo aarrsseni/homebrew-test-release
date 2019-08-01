@@ -8,7 +8,7 @@ class Bq < Formula
 
   def install
     libexec.install Dir["*"]
-    bin.install_symlink libexec/"bin/bq"
+    bin.install_symlink libexec/"bin/release-test"
   end
 
   test do
