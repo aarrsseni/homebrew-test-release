@@ -1,4 +1,4 @@
-class Bq < Formula
+class Release < Formula
   desc "Bootique CLI tools"
   homepage "https://bootique.io"
   url "https://bintray.com/aarrsseni/release-test/download_file?file_path=release-test-1.20.zip"
@@ -12,6 +12,6 @@ class Bq < Formula
   end
 
   test do
-    system "bq --help"
+    system "release-test"
   end
 end
