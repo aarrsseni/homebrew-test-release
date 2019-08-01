@@ -1,4 +1,4 @@
-class Release < Formula
+class ReleaseTest < Formula
   desc "Bootique CLI tools"
   homepage "https://bootique.io"
   url "https://bintray.com/aarrsseni/release-test/download_file?file_path=release-test-1.22.zip"
