@@ -1,8 +1,8 @@
 class ReleaseTest < Formula
   desc "Bootique CLI tools"
   homepage "https://bootique.io"
-  url "https://bintray.com/aarrsseni/release-test/download_file?file_path=release-test-1.30.zip"
-  sha256 "cd107e470246b6732a573e9c5602c4be4bf68603b7980dab1cdc7efa58199d93"
+  url "https://bintray.com/aarrsseni/release-test/download_file?file_path=release-test-1.31.zip"
+  sha256 "ea6de90cab04ba3d639a1b6214536f21e2ce194bccf4c6d86b173e0b40cf7dd0"
 
   bottle :unneeded
 
